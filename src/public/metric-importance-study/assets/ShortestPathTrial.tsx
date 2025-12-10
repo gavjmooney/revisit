@@ -50,14 +50,14 @@ export default function ShortestPathTrial({
   return (
     <Stack align="center" gap="md">
       <Text fw={500}>
-        Select the length of the shortest path between the two nodes highlighted in red.
+        Select the length of the shortest path between the two nodes highlighted in red. Selecting a response will progress the study - you cannot change your answer.
       </Text>
 
       <Box style={{ width: '33%' }}>
         <img
           src={imageUrl}
           alt="Graph visualization"
-          style={{ width: '100%', height: 'auto' }}
+          style={{ width: '60%', height: 'auto' }}
         />
       </Box>
 
