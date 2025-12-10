@@ -45,7 +45,7 @@ export default function ShortestPathTrial({
     return undefined;
   }, [shouldAdvance, selected, goToNextStep]);
 
-  const imageUrl = `/${parameters.imagePath}`;
+  const imageUrl = `${import.meta.env.BASE_URL}${parameters.imagePath}`;
 
   return (
     <Stack align="center" gap="md">
