@@ -1,0 +1,1 @@
+The study will now begin. You will be shown an image of graph and asked to choose the length of the shortest path between the two highlighted nodes in red. Making a selection will progress the study - you cannot change your answer. Each trial is expected to take 5-15 seconds.

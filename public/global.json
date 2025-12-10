@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.3.2/src/parser/GlobalConfigSchema.json",
   "configsList": [
+    "metric-importance-study",
     "tutorial",
     "tutorial-replication",
     "demo-html",
@@ -52,6 +53,9 @@
     "test-step-logic"
   ],
   "configs": {
+    "metric-importance-study": {
+      "path": "metric-importance-study/config.json"
+    },
     "tutorial": {
       "path": "tutorial/config.json"
     },

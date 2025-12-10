@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0000000000001" height="600.0" viewBox="-12.0 -12.0 600.0000000000001 600.0">
+  <path d="M212.772896,492.824482 L199.834254,188.082668" fill="none" stroke="black" id="0-1"/>
+  <path d="M212.772896,492.824482 L176.878266,422.465331" fill="none" stroke="black" id="0-2"/>
+  <path d="M212.772896,492.824482 L304.886652,455.114868" fill="none" stroke="black" id="0-4"/>
+  <path d="M212.772896,492.824482 L379.269965,-0.000312" fill="none" stroke="black" id="0-11"/>
+  <path d="M212.772896,492.824482 L463.977856,259.434692" fill="none" stroke="black" id="0-13"/>
+  <path d="M199.834254,188.082668 L-0.000181,43.260762" fill="none" stroke="black" id="1-5"/>
+  <path d="M176.878266,422.465331 L121.065126,485.680922" fill="none" stroke="black" id="2-6"/>
+  <path d="M176.878266,422.465331 L19.409718,290.564925" fill="none" stroke="black" id="2-10"/>
+  <path d="M497.398485,575.999982 L575.999797,575.482313" fill="none" stroke="black" id="3-8"/>
+  <path d="M497.398485,575.999982 L32.935071,570.605576" fill="none" stroke="black" id="3-12"/>
+  <path d="M304.886652,455.114868 L324.374650,273.816180" fill="none" stroke="black" id="4-7"/>
+  <path d="M304.886652,455.114868 L19.409718,290.564925" fill="none" stroke="black" id="4-10"/>
+  <path d="M-0.000181,43.260762 L379.269965,-0.000312" fill="none" stroke="black" id="5-11"/>
+  <path d="M121.065126,485.680922 L19.409718,290.564925" fill="none" stroke="black" id="6-10"/>
+  <path d="M121.065126,485.680922 L32.935071,570.605576" fill="none" stroke="black" id="6-12"/>
+  <path d="M324.374650,273.816180 L463.977856,259.434692" fill="none" stroke="black" id="7-13"/>
+  <path d="M575.999797,575.482313 L507.144098,524.899056" fill="none" stroke="black" id="8-9"/>
+  <path d="M575.999797,575.482313 L463.977856,259.434692" fill="none" stroke="black" id="8-13"/>
+  <path d="M379.269965,-0.000312 L463.977856,259.434692" fill="none" stroke="black" id="11-13"/>
+  <ellipse cx="212.77304646894595" cy="492.824403018024" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
+  <ellipse cx="199.83395753819036" cy="188.08288874349503" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
+  <ellipse cx="176.878267926807" cy="422.46549117035636" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
+  <ellipse cx="497.39879226389513" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
+  <ellipse cx="304.88693568615395" cy="455.1145364310381" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
+  <ellipse cx="0.0" cy="43.2610177987207" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
+  <ellipse cx="121.06519953019858" cy="485.6809938584838" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
+  <ellipse cx="324.37448270651987" cy="273.816162444052" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
+  <ellipse cx="576.0000000000001" cy="575.482066187198" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
+  <ellipse cx="507.1444139445916" cy="524.8988199542455" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="9"/>
+  <ellipse cx="19.409527097457797" cy="290.56490046905503" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
+  <ellipse cx="379.26978880433245" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
+  <ellipse cx="32.93498297999856" cy="570.6052629722212" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
+  <ellipse cx="463.9777066389495" cy="259.4348433120499" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>
+</svg>
