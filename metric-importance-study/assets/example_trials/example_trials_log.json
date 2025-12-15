@@ -1,56 +1,126 @@
 [
   {
-    "graph_index": 0,
-    "timestamp": "2025-12-10T10:53:31.153563+00:00",
     "num_nodes": 10,
-    "num_edges": 19,
+    "timestamp": "2025-12-15T03:54:28.818032+00:00",
+    "num_edges": 21,
+    "node_a": 2,
+    "node_b": 6,
+    "distance": 3,
+    "path_nodes": [
+      2,
+      7,
+      5,
+      6
+    ],
+    "geg_file": "n10_example.geg",
+    "svg_file": "n10_example.svg",
+    "solution_svg_file": "n10_example_solution.svg"
+  },
+  {
+    "num_nodes": 11,
+    "timestamp": "2025-12-15T03:54:28.885499+00:00",
+    "num_edges": 18,
+    "node_a": 4,
+    "node_b": 5,
+    "distance": 4,
+    "path_nodes": [
+      4,
+      9,
+      0,
+      8,
+      5
+    ],
+    "geg_file": "n11_example.geg",
+    "svg_file": "n11_example.svg",
+    "solution_svg_file": "n11_example_solution.svg"
+  },
+  {
+    "num_nodes": 12,
+    "timestamp": "2025-12-15T03:54:28.976586+00:00",
+    "num_edges": 20,
+    "node_a": 0,
+    "node_b": 2,
+    "distance": 4,
+    "path_nodes": [
+      0,
+      1,
+      6,
+      9,
+      2
+    ],
+    "geg_file": "n12_example.geg",
+    "svg_file": "n12_example.svg",
+    "solution_svg_file": "n12_example_solution.svg"
+  },
+  {
+    "num_nodes": 13,
+    "timestamp": "2025-12-15T03:54:29.117596+00:00",
+    "num_edges": 22,
     "node_a": 6,
     "node_b": 7,
     "distance": 3,
     "path_nodes": [
       6,
-      0,
+      1,
       2,
       7
     ],
-    "geg_file": "example_0.geg",
-    "svg_file": "example_0.svg",
-    "solution_svg_file": "example_0_solution.svg"
+    "geg_file": "n13_example.geg",
+    "svg_file": "n13_example.svg",
+    "solution_svg_file": "n13_example_solution.svg"
   },
   {
-    "graph_index": 1,
-    "timestamp": "2025-12-10T10:53:31.240557+00:00",
-    "num_nodes": 10,
-    "num_edges": 21,
-    "node_a": 2,
-    "node_b": 8,
+    "num_nodes": 14,
+    "timestamp": "2025-12-15T03:54:29.203585+00:00",
+    "num_edges": 28,
+    "node_a": 0,
+    "node_b": 4,
     "distance": 3,
     "path_nodes": [
-      2,
-      7,
       0,
-      8
+      12,
+      3,
+      4
     ],
-    "geg_file": "example_1.geg",
-    "svg_file": "example_1.svg",
-    "solution_svg_file": "example_1_solution.svg"
+    "geg_file": "n14_example.geg",
+    "svg_file": "n14_example.svg",
+    "solution_svg_file": "n14_example_solution.svg"
   },
   {
-    "graph_index": 2,
-    "timestamp": "2025-12-10T10:53:31.337558+00:00",
-    "num_nodes": 10,
-    "num_edges": 15,
-    "node_a": 4,
-    "node_b": 8,
-    "distance": 3,
+    "num_nodes": 15,
+    "timestamp": "2025-12-15T03:54:29.958636+00:00",
+    "num_edges": 23,
+    "node_a": 0,
+    "node_b": 5,
+    "distance": 5,
     "path_nodes": [
+      0,
+      14,
+      9,
+      3,
       4,
-      1,
-      2,
-      8
+      5
     ],
-    "geg_file": "example_2.geg",
-    "svg_file": "example_2.svg",
-    "solution_svg_file": "example_2_solution.svg"
+    "geg_file": "n15_example.geg",
+    "svg_file": "n15_example.svg",
+    "solution_svg_file": "n15_example_solution.svg"
+  },
+  {
+    "num_nodes": 16,
+    "timestamp": "2025-12-15T03:54:30.318685+00:00",
+    "num_edges": 24,
+    "node_a": 3,
+    "node_b": 9,
+    "distance": 4,
+    "path_nodes": [
+      3,
+      2,
+      4,
+      12,
+      9
+    ],
+    "geg_file": "n16_example.geg",
+    "svg_file": "n16_example.svg",
+    "solution_svg_file": "n16_example_solution.svg"
   }
 ]

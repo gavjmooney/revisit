@@ -24,10 +24,10 @@
   <ellipse cx="188.98353781390173" cy="210.95388214359946" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="223.44114869698294" cy="296.3746231572488" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="121.08244349731115" cy="121.88508531336211" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
-  <ellipse cx="353.1970628645762" cy="236.58798215945382" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
+  <ellipse cx="353.1970628645762" cy="236.58798215945382" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="7"/>
   <ellipse cx="220.59017602819276" cy="498.08868416721293" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="46.09023426840797" cy="390.6766467943946" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="244.75753878351068" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
+  <ellipse cx="244.75753878351068" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
   <ellipse cx="271.5983926341547" cy="189.50437412942227" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
   <ellipse cx="183.11545436543378" cy="97.62986238543286" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="12"/>
 </svg>

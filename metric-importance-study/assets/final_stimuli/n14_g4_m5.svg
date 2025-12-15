@@ -22,15 +22,15 @@
   <path d="M139.928017,352.682125 L43.040790,140.691458" fill="none" stroke="black" id="10-13"/>
   <path d="M200.228670,233.567287 L43.040790,140.691458" fill="none" stroke="black" id="12-13"/>
   <ellipse cx="540.741489427678" cy="157.78776761335251" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="145.91835288911483" cy="505.77299893264285" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
+  <ellipse cx="145.91835288911483" cy="505.77299893264285" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="68.62170081002647" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
   <ellipse cx="437.69950931216766" cy="265.1723836937391" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="358.0654561198707" cy="475.170093111352" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="0.0" cy="332.5084783238642" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
-  <ellipse cx="325.1754230754635" cy="69.21414140603133" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
+  <ellipse cx="325.1754230754635" cy="69.21414140603133" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="6"/>
   <ellipse cx="575.9999999999999" cy="18.05881810037397" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
-  <ellipse cx="4.3933927813936435" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
-  <ellipse cx="575.9999999999999" cy="397.00250195646686" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="9"/>
+  <ellipse cx="4.3933927813936435" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="8"/>
+  <ellipse cx="575.9999999999999" cy="397.00250195646686" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
   <ellipse cx="139.9281729406685" cy="352.6823928372854" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
   <ellipse cx="374.4159935394958" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
   <ellipse cx="200.22877811839618" cy="233.56701341935212" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>

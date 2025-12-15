@@ -17,8 +17,8 @@
   <path d="M181.235200,111.265591 L293.812480,0.000089" fill="none" stroke="black" id="7-12"/>
   <path d="M576.000000,34.170123 L293.812480,0.000089" fill="none" stroke="black" id="11-12"/>
   <ellipse cx="539.9237829960722" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="0.0" cy="174.45224104131015" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
-  <ellipse cx="286.6796246640974" cy="343.2610893110552" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
+  <ellipse cx="0.0" cy="174.45224104131015" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
+  <ellipse cx="286.6796246640974" cy="343.2610893110552" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
   <ellipse cx="214.38609988107333" cy="543.0848895486952" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="352.2003718835406" cy="94.97080708784787" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="403.1701576731755" cy="448.8775903987917" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
@@ -26,7 +26,7 @@
   <ellipse cx="181.23502285346677" cy="111.26566713186298" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="447.9814679523157" cy="140.33346398375917" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="53.221337025498876" cy="428.09609310757963" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="281.2188445593175" cy="412.0129015931742" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
+  <ellipse cx="281.2188445593175" cy="412.0129015931742" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
   <ellipse cx="576.0000000000001" cy="34.170085328440834" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
-  <ellipse cx="293.81233098844797" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
+  <ellipse cx="293.81233098844797" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="12"/>
 </svg>

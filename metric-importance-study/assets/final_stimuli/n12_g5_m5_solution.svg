@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0000000000001" height="600.0000000000001" viewBox="-12.0 -12.0 600.0000000000001 600.0000000000001">
   <path d="M143.592320,55.534720 L101.588480,0.000000" fill="none" stroke="black" id="0-3"/>
   <path d="M143.592320,55.534720 L415.349760,281.695360" fill="none" stroke="black" id="0-10"/>
-  <path d="M576.000000,11.589120 L101.588480,0.000000" fill="none" stroke="black" id="1-3"/>
+  <path d="M576.000000,11.589120 L101.588480,0.000000" fill="none" stroke="#c43c24" id="1-3"/>
   <path d="M576.000000,11.589120 L433.039360,59.832960" fill="none" stroke="#c43c24" id="1-8"/>
   <path d="M576.000000,11.589120 L415.349760,281.695360" fill="none" stroke="black" id="1-10"/>
   <path d="M320.631680,576.000000 L194.469120,490.496000" fill="none" stroke="#c43c24" id="2-7"/>
@@ -15,9 +15,9 @@
   <path d="M576.000000,335.949440 L194.469120,490.496000" fill="none" stroke="black" id="6-7"/>
   <path d="M576.000000,335.949440 L433.039360,59.832960" fill="none" stroke="black" id="6-8"/>
   <ellipse cx="143.5924060996055" cy="55.5349650512077" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="576.0000000000001" cy="11.589367811675608" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
+  <ellipse cx="576.0000000000001" cy="11.589367811675608" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="320.6314348853503" cy="576.0000000000001" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
-  <ellipse cx="101.58868719092703" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
+  <ellipse cx="101.58868719092703" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="3"/>
   <ellipse cx="0.0" cy="258.9176070110582" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="216.18695341993694" cy="263.28250891489193" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="576.0000000000001" cy="335.94937906163" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0" height="599.9999999999999" viewBox="-12.0 -12.0 600.0 599.9999999999999">
   <path d="M0.000010,322.341005 L74.057599,571.158562" fill="none" stroke="#c43c24" id="0-4"/>
-  <path d="M0.000010,322.341005 L385.318808,-0.000251" fill="none" stroke="#c43c24" id="0-6"/>
-  <path d="M0.000010,322.341005 L223.039103,425.037047" fill="none" stroke="black" id="0-10"/>
+  <path d="M0.000010,322.341005 L385.318808,-0.000251" fill="none" stroke="black" id="0-6"/>
+  <path d="M0.000010,322.341005 L223.039103,425.037047" fill="none" stroke="#c43c24" id="0-10"/>
   <path d="M352.075669,576.000176 L342.199225,282.684797" fill="none" stroke="black" id="1-3"/>
   <path d="M352.075669,576.000176 L74.057599,571.158562" fill="none" stroke="black" id="1-4"/>
   <path d="M352.075669,576.000176 L385.318808,-0.000251" fill="none" stroke="black" id="1-6"/>
@@ -14,7 +14,7 @@
   <path d="M253.257181,226.071812 L137.094310,511.514328" fill="none" stroke="black" id="2-13"/>
   <path d="M74.057599,571.158562 L129.509356,423.101954" fill="none" stroke="black" id="4-5"/>
   <path d="M74.057599,571.158562 L137.094310,511.514328" fill="none" stroke="#c43c24" id="4-13"/>
-  <path d="M385.318808,-0.000251 L575.999980,222.093977" fill="none" stroke="#c43c24" id="6-7"/>
+  <path d="M385.318808,-0.000251 L575.999980,222.093977" fill="none" stroke="black" id="6-7"/>
   <path d="M385.318808,-0.000251 L554.830324,473.570669" fill="none" stroke="black" id="6-8"/>
   <path d="M385.318808,-0.000251 L447.247292,286.981438" fill="none" stroke="black" id="6-11"/>
   <path d="M385.318808,-0.000251 L69.763743,68.805010" fill="none" stroke="black" id="6-12"/>
@@ -24,7 +24,7 @@
   <path d="M554.830324,473.570669 L447.247292,286.981438" fill="none" stroke="black" id="8-11"/>
   <path d="M456.207035,438.796443 L223.039103,425.037047" fill="none" stroke="black" id="9-10"/>
   <path d="M456.207035,438.796443 L319.735063,404.301172" fill="none" stroke="black" id="9-15"/>
-  <path d="M223.039103,425.037047 L319.735063,404.301172" fill="none" stroke="black" id="10-15"/>
+  <path d="M223.039103,425.037047 L319.735063,404.301172" fill="none" stroke="#c43c24" id="10-15"/>
   <ellipse cx="0.0" cy="322.3408537314358" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
   <ellipse cx="352.07553414370835" cy="575.9999999999999" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="253.25716131351388" cy="226.07183140510224" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
@@ -32,7 +32,7 @@
   <ellipse cx="74.0577878561227" cy="571.1584275358209" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="129.509454482002" cy="423.1018667984031" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="385.3187140959799" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
-  <ellipse cx="576.0" cy="222.09398242549108" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="7"/>
+  <ellipse cx="576.0" cy="222.09398242549108" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="554.8304141360998" cy="473.57080812039" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="456.20711552981425" cy="438.7964575905817" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
   <ellipse cx="223.0392448748818" cy="425.03694872942094" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
@@ -40,5 +40,5 @@
   <ellipse cx="69.76384527292032" cy="68.80488439816915" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
   <ellipse cx="137.09430421519056" cy="511.5141395292153" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="13"/>
   <ellipse cx="294.1081304099133" cy="128.28149399117038" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="14"/>
-  <ellipse cx="319.7348862852658" cy="404.301182612218" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="15"/>
+  <ellipse cx="319.7348862852658" cy="404.301182612218" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="15"/>
 </svg>

@@ -20,18 +20,18 @@
   <path d="M112.759703,63.846415 L88.144714,203.595267" fill="none" stroke="black" id="10-12"/>
   <path d="M112.759703,63.846415 L361.749639,281.715799" fill="none" stroke="black" id="10-13"/>
   <ellipse cx="0.0" cy="576.0000000000001" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="175.32760908654595" cy="402.35854974775077" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
+  <ellipse cx="175.32760908654595" cy="402.35854974775077" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
   <ellipse cx="366.53626582618506" cy="542.0349254033762" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
   <ellipse cx="245.91424013454824" cy="354.93448681992584" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="284.96185469288906" cy="428.2302643567441" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="334.21626489939365" cy="185.93713982717557" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="508.85916401539197" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
-  <ellipse cx="544.9585115428246" cy="347.7354906318882" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="7"/>
+  <ellipse cx="544.9585115428246" cy="347.7354906318882" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="575.9999999999999" cy="549.218806945081" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="200.7560181652501" cy="223.3326106432169" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="112.75953659342707" cy="63.84671391026794" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
+  <ellipse cx="112.75953659342707" cy="63.84671391026794" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
   <ellipse cx="462.2494926020089" cy="282.4668668422381" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
-  <ellipse cx="88.14486522031123" cy="203.5951150851716" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
+  <ellipse cx="88.14486522031123" cy="203.5951150851716" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="12"/>
   <ellipse cx="361.74985133397246" cy="281.71581865940016" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>
   <ellipse cx="445.8974632177273" cy="573.2590669040897" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="14"/>
 </svg>

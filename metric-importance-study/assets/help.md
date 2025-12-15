@@ -1,2 +1,2 @@
 # Help
-Select the length of the shortest path between the two nodes highlighted in red. Warning: making a selection will progress the study: you cannot change your answer.
+Select the length of the shortest path between the two nodes highlighted in red. Warning: making a selection will progress the study: you cannot change your answer. Accuracy is important, but please do not spend too long on each question.

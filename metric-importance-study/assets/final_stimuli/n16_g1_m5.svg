@@ -25,7 +25,7 @@
   <ellipse cx="576.0" cy="296.29947340239187" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="291.3282531566982" cy="143.76187855476633" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="0.0" cy="213.75034668208298" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
-  <ellipse cx="488.9666823749561" cy="467.3040205851697" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
+  <ellipse cx="488.9666823749561" cy="467.3040205851697" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="6"/>
   <ellipse cx="311.15214476000654" cy="387.32384207373286" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="117.46662196554072" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="129.89676748510456" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
@@ -34,5 +34,5 @@
   <ellipse cx="235.81125290770305" cy="225.64957805423126" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
   <ellipse cx="436.0058151207685" cy="387.1617825681277" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>
   <ellipse cx="399.1939133772245" cy="102.39682233967027" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="14"/>
-  <ellipse cx="228.66804474585294" cy="300.66174595093" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="15"/>
+  <ellipse cx="228.66804474585294" cy="300.66174595093" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="15"/>
 </svg>

@@ -20,10 +20,10 @@
   <path d="M448.789858,103.519221 L358.904986,181.668397" fill="none" stroke="black" id="9-14"/>
   <path d="M479.285697,244.106797 L89.079647,410.072431" fill="none" stroke="black" id="11-13"/>
   <ellipse cx="264.25029277278105" cy="383.8092411575008" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="172.63699397959752" cy="479.19938975388106" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
+  <ellipse cx="172.63699397959752" cy="479.19938975388106" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="148.04182085569096" cy="181.68111280017476" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
-  <ellipse cx="274.0504583216038" cy="511.0284161417988" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
-  <ellipse cx="170.99632314516276" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="4"/>
+  <ellipse cx="274.0504583216038" cy="511.0284161417988" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="3"/>
+  <ellipse cx="170.99632314516276" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="395.5765053421961" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="576.0" cy="391.8681549443767" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
   <ellipse cx="164.8960504633033" cy="91.80545268153605" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
@@ -32,6 +32,6 @@
   <ellipse cx="0.0" cy="451.84671218295165" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
   <ellipse cx="479.28549060261486" cy="244.10659344248825" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
   <ellipse cx="279.29160568828286" cy="174.00321094251842" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
-  <ellipse cx="89.07945895694021" cy="410.0725501629479" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>
+  <ellipse cx="89.07945895694021" cy="410.0725501629479" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="13"/>
   <ellipse cx="358.90481830635514" cy="181.66860088500377" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="14"/>
 </svg>
