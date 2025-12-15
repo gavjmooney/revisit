@@ -25,11 +25,11 @@
   <ellipse cx="552.1605729318705" cy="286.1521164824844" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="191.03423636796086" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="426.46576290897036" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
-  <ellipse cx="497.3967457962827" cy="544.9372189414044" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
+  <ellipse cx="497.3967457962827" cy="544.9372189414044" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="6"/>
   <ellipse cx="348.9350805123654" cy="66.26101873076132" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
-  <ellipse cx="275.2690128696926" cy="231.8964379769832" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
-  <ellipse cx="232.3572057154735" cy="356.0196378382062" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="9"/>
-  <ellipse cx="423.35758422787535" cy="298.9630623018743" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
+  <ellipse cx="275.2690128696926" cy="231.8964379769832" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="8"/>
+  <ellipse cx="232.3572057154735" cy="356.0196378382062" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
+  <ellipse cx="423.35758422787535" cy="298.9630623018743" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
   <ellipse cx="249.08397293599754" cy="451.7112682893792" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
   <ellipse cx="576.0" cy="459.86162718479784" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
   <ellipse cx="137.99506394809185" cy="200.63819909374857" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>

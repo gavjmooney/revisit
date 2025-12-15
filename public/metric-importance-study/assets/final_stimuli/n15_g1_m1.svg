@@ -23,15 +23,15 @@
   <ellipse cx="53.60280848267854" cy="279.7338979720138" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
   <ellipse cx="297.32258118366565" cy="374.760868423028" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="285.91054844060386" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
-  <ellipse cx="420.3792856543619" cy="33.83481910058927" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
+  <ellipse cx="420.3792856543619" cy="33.83481910058927" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="3"/>
   <ellipse cx="199.85081781834725" cy="267.40000494274705" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="0.0" cy="294.82796036904676" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="90.46459870066548" cy="183.97208680501697" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
-  <ellipse cx="310.97162625860284" cy="224.7370121414851" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="7"/>
+  <ellipse cx="310.97162625860284" cy="224.7370121414851" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="495.71272426468335" cy="370.8197530012626" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="420.1218812162877" cy="356.18636391025177" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="283.0671899408404" cy="56.53160340052881" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
-  <ellipse cx="576.0" cy="441.7909066373122" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
+  <ellipse cx="283.0671899408404" cy="56.53160340052881" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
+  <ellipse cx="576.0" cy="441.7909066373122" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="11"/>
   <ellipse cx="235.80891087249574" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
   <ellipse cx="355.0663151323359" cy="304.5033822110048" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="13"/>
   <ellipse cx="335.21618189115065" cy="452.84798873905515" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="14"/>

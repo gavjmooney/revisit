@@ -2,23 +2,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0000000000001" height="600.0000000000001" viewBox="-12.0 -12.0 600.0000000000001 600.0000000000001">
   <path d="M89.948800,149.971200 L166.632320,417.589120" fill="none" stroke="black" id="0-10"/>
   <path d="M395.129600,435.441280 L522.412160,544.117120" fill="none" stroke="black" id="1-3"/>
-  <path d="M395.129600,435.441280 L455.843840,54.681600" fill="none" stroke="#c43c24" id="1-8"/>
+  <path d="M395.129600,435.441280 L455.843840,54.681600" fill="none" stroke="black" id="1-8"/>
   <path d="M395.129600,435.441280 L234.145280,576.000000" fill="none" stroke="black" id="1-9"/>
-  <path d="M189.042560,263.733760 L331.201280,366.840960" fill="none" stroke="#c43c24" id="2-6"/>
+  <path d="M189.042560,263.733760 L331.201280,366.840960" fill="none" stroke="black" id="2-6"/>
   <path d="M189.042560,263.733760 L465.927680,0.000000" fill="none" stroke="black" id="2-7"/>
   <path d="M522.412160,544.117120 L234.145280,576.000000" fill="none" stroke="black" id="3-9"/>
   <path d="M576.000000,300.790400 L455.843840,54.681600" fill="none" stroke="black" id="4-8"/>
   <path d="M251.240960,55.583360 L331.201280,366.840960" fill="none" stroke="black" id="5-6"/>
-  <path d="M331.201280,366.840960 L455.843840,54.681600" fill="none" stroke="#c43c24" id="6-8"/>
+  <path d="M331.201280,366.840960 L455.843840,54.681600" fill="none" stroke="black" id="6-8"/>
   <path d="M331.201280,366.840960 L234.145280,576.000000" fill="none" stroke="black" id="6-9"/>
-  <path d="M331.201280,366.840960 L166.632320,417.589120" fill="none" stroke="black" id="6-10"/>
-  <path d="M331.201280,366.840960 L320.665600,194.648320" fill="none" stroke="black" id="6-11"/>
+  <path d="M331.201280,366.840960 L166.632320,417.589120" fill="none" stroke="#c43c24" id="6-10"/>
+  <path d="M331.201280,366.840960 L320.665600,194.648320" fill="none" stroke="#c43c24" id="6-11"/>
   <path d="M465.927680,0.000000 L455.843840,54.681600" fill="none" stroke="black" id="7-8"/>
   <path d="M465.927680,0.000000 L0.000000,0.000000" fill="none" stroke="black" id="7-12"/>
-  <path d="M320.665600,194.648320 L0.000000,0.000000" fill="none" stroke="black" id="11-12"/>
+  <path d="M320.665600,194.648320 L0.000000,0.000000" fill="none" stroke="#c43c24" id="11-12"/>
   <ellipse cx="89.94856287063541" cy="149.97140979144297" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="395.1298673021684" cy="435.4411442048356" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
-  <ellipse cx="189.04245743330563" cy="263.73367045379655" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
+  <ellipse cx="395.1298673021684" cy="435.4411442048356" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
+  <ellipse cx="189.04245743330563" cy="263.73367045379655" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
   <ellipse cx="522.4118629749197" cy="544.1170439241412" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="576.0000000000001" cy="300.7901984341814" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="251.24105384651233" cy="55.58360106977525" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
@@ -26,7 +26,7 @@
   <ellipse cx="465.9275049813675" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="455.84414635814005" cy="54.68144270320847" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="234.14550831470973" cy="576.0000000000001" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="166.63226242134556" cy="417.5893257820382" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
+  <ellipse cx="166.63226242134556" cy="417.5893257820382" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
   <ellipse cx="320.6657381747702" cy="194.64839713289112" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
-  <ellipse cx="0.0" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
+  <ellipse cx="0.0" cy="0.0" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="12"/>
 </svg>

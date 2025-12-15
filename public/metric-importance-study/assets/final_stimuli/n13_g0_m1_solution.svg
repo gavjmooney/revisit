@@ -2,23 +2,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0" height="600.0" viewBox="-12.0 -12.0 600.0 600.0">
   <path d="M546.854894,189.715286 L268.586922,365.578645" fill="none" stroke="black" id="0-10"/>
   <path d="M182.355978,147.105508 L0.000120,0.000173" fill="none" stroke="black" id="1-3"/>
-  <path d="M182.355978,147.105508 L344.391648,133.049932" fill="none" stroke="#c43c24" id="1-8"/>
+  <path d="M182.355978,147.105508 L344.391648,133.049932" fill="none" stroke="black" id="1-8"/>
   <path d="M182.355978,147.105508 L94.393503,255.301436" fill="none" stroke="black" id="1-9"/>
-  <path d="M352.094913,427.787380 L73.098681,484.879038" fill="none" stroke="#c43c24" id="2-6"/>
+  <path d="M352.094913,427.787380 L73.098681,484.879038" fill="none" stroke="black" id="2-6"/>
   <path d="M352.094913,427.787380 L576.000114,380.256213" fill="none" stroke="black" id="2-7"/>
   <path d="M0.000120,0.000173 L94.393503,255.301436" fill="none" stroke="black" id="3-9"/>
   <path d="M349.800523,360.147701 L344.391648,133.049932" fill="none" stroke="black" id="4-8"/>
   <path d="M1.855085,566.605872 L73.098681,484.879038" fill="none" stroke="black" id="5-6"/>
-  <path d="M73.098681,484.879038 L344.391648,133.049932" fill="none" stroke="#c43c24" id="6-8"/>
+  <path d="M73.098681,484.879038 L344.391648,133.049932" fill="none" stroke="black" id="6-8"/>
   <path d="M73.098681,484.879038 L94.393503,255.301436" fill="none" stroke="black" id="6-9"/>
-  <path d="M73.098681,484.879038 L268.586922,365.578645" fill="none" stroke="black" id="6-10"/>
-  <path d="M73.098681,484.879038 L390.579638,575.999860" fill="none" stroke="black" id="6-11"/>
+  <path d="M73.098681,484.879038 L268.586922,365.578645" fill="none" stroke="#c43c24" id="6-10"/>
+  <path d="M73.098681,484.879038 L390.579638,575.999860" fill="none" stroke="#c43c24" id="6-11"/>
   <path d="M576.000114,380.256213 L344.391648,133.049932" fill="none" stroke="black" id="7-8"/>
   <path d="M576.000114,380.256213 L523.967775,559.198430" fill="none" stroke="black" id="7-12"/>
-  <path d="M390.579638,575.999860 L523.967775,559.198430" fill="none" stroke="black" id="11-12"/>
+  <path d="M390.579638,575.999860 L523.967775,559.198430" fill="none" stroke="#c43c24" id="11-12"/>
   <ellipse cx="546.8549067313163" cy="189.71536096632974" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="182.35616683705223" cy="147.1056623558921" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
-  <ellipse cx="352.0946839798779" cy="427.78761651089184" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
+  <ellipse cx="182.35616683705223" cy="147.1056623558921" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
+  <ellipse cx="352.0946839798779" cy="427.78761651089184" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
   <ellipse cx="0.0" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
   <ellipse cx="349.80047860603946" cy="360.1475845913235" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="1.8551034069506223" cy="566.6060037166543" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
@@ -26,7 +26,7 @@
   <ellipse cx="576.0" cy="380.2559951395774" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
   <ellipse cx="344.39185843529987" cy="133.04972742666322" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="94.39335336986959" cy="255.30161578750125" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
-  <ellipse cx="268.58708217028266" cy="365.5785439265572" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>
+  <ellipse cx="268.58708217028266" cy="365.5785439265572" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="10"/>
   <ellipse cx="390.5798095546276" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="11"/>
-  <ellipse cx="523.9679195884569" cy="559.1984443980625" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="12"/>
+  <ellipse cx="523.9679195884569" cy="559.1984443980625" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="12"/>
 </svg>

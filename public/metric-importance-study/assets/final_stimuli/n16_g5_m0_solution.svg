@@ -4,30 +4,30 @@
   <path d="M-0.000224,238.216826 L576.000000,235.861295" fill="none" stroke="black" id="0-2"/>
   <path d="M-0.000224,238.216826 L274.491422,343.540066" fill="none" stroke="black" id="0-10"/>
   <path d="M-0.000224,238.216826 L118.667606,29.685890" fill="none" stroke="black" id="0-14"/>
-  <path d="M115.694345,514.195264 L113.151563,383.892090" fill="none" stroke="#c43c24" id="1-5"/>
+  <path d="M115.694345,514.195264 L113.151563,383.892090" fill="none" stroke="black" id="1-5"/>
   <path d="M115.694345,514.195264 L274.491422,343.540066" fill="none" stroke="black" id="1-10"/>
-  <path d="M115.694345,514.195264 L278.834297,198.097908" fill="none" stroke="#c43c24" id="1-12"/>
+  <path d="M115.694345,514.195264 L278.834297,198.097908" fill="none" stroke="black" id="1-12"/>
   <path d="M576.000000,235.861295 L299.155003,0.000245" fill="none" stroke="black" id="2-3"/>
-  <path d="M576.000000,235.861295 L207.052578,109.726539" fill="none" stroke="black" id="2-8"/>
+  <path d="M576.000000,235.861295 L207.052578,109.726539" fill="none" stroke="#c43c24" id="2-8"/>
   <path d="M576.000000,235.861295 L354.355018,364.553354" fill="none" stroke="black" id="2-11"/>
   <path d="M576.000000,235.861295 L303.813094,60.249700" fill="none" stroke="black" id="2-13"/>
   <path d="M576.000000,235.861295 L527.890106,305.503064" fill="none" stroke="black" id="2-15"/>
-  <path d="M130.658872,197.724937 L278.834297,198.097908" fill="none" stroke="#c43c24" id="4-12"/>
+  <path d="M130.658872,197.724937 L278.834297,198.097908" fill="none" stroke="black" id="4-12"/>
   <path d="M319.135435,276.212556 L328.845514,545.542467" fill="none" stroke="black" id="6-7"/>
-  <path d="M328.845514,545.542467 L197.671748,576.000041" fill="none" stroke="black" id="7-9"/>
-  <path d="M207.052578,109.726539 L278.834297,198.097908" fill="none" stroke="black" id="8-12"/>
+  <path d="M328.845514,545.542467 L197.671748,576.000041" fill="none" stroke="#c43c24" id="7-9"/>
+  <path d="M207.052578,109.726539 L278.834297,198.097908" fill="none" stroke="#c43c24" id="8-12"/>
   <path d="M207.052578,109.726539 L303.813094,60.249700" fill="none" stroke="black" id="8-13"/>
   <path d="M207.052578,109.726539 L118.667606,29.685890" fill="none" stroke="black" id="8-14"/>
-  <path d="M197.671748,576.000041 L278.834297,198.097908" fill="none" stroke="black" id="9-12"/>
+  <path d="M197.671748,576.000041 L278.834297,198.097908" fill="none" stroke="#c43c24" id="9-12"/>
   <path d="M354.355018,364.553354 L527.890106,305.503064" fill="none" stroke="black" id="11-15"/>
   <ellipse cx="0.0" cy="238.2167007567087" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
   <ellipse cx="115.69431575712856" cy="514.1952957517533" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
-  <ellipse cx="576.0" cy="235.86159737869548" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="2"/>
+  <ellipse cx="576.0" cy="235.86159737869548" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
   <ellipse cx="299.15515274390407" cy="0.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
-  <ellipse cx="130.65865938189881" cy="197.72485557749013" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="4"/>
-  <ellipse cx="113.1515554595707" cy="383.89242848465375" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="5"/>
+  <ellipse cx="130.65865938189881" cy="197.72485557749013" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
+  <ellipse cx="113.1515554595707" cy="383.89242848465375" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="319.13531506377956" cy="276.21246190914536" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
-  <ellipse cx="328.84564817590683" cy="545.5426705973082" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="7"/>
+  <ellipse cx="328.84564817590683" cy="545.5426705973082" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="7"/>
   <ellipse cx="207.05270697127628" cy="109.72624716734305" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="8"/>
   <ellipse cx="197.67173592008237" cy="576.0" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="9"/>
   <ellipse cx="274.4915537552673" cy="343.54004001932327" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="10"/>

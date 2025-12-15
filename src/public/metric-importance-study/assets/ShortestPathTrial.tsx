@@ -50,7 +50,9 @@ export default function ShortestPathTrial({
   return (
     <Stack align="center" gap="md">
       <Text fw={500}>
-        Select the length of the shortest path between the two nodes highlighted in red. Selecting a response will progress the study - you cannot change your answer.
+        Select the length of the shortest path between the two nodes highlighted in red.
+        Selecting a response will progress the study - you cannot change your answer.
+        Accuracy is important, but please do not spend too long on each question.
       </Text>
 
       <Box style={{ width: '33%' }}>

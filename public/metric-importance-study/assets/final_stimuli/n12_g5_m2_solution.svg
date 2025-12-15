@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0000000000001" height="600.0000000000001" viewBox="-12.0 -12.0 600.0000000000001 600.0000000000001">
   <path d="M576.000000,64.663040 L576.000000,488.135680" fill="none" stroke="black" id="0-3"/>
   <path d="M576.000000,64.663040 L297.738240,149.038080" fill="none" stroke="black" id="0-10"/>
-  <path d="M466.474240,142.364160 L576.000000,488.135680" fill="none" stroke="black" id="1-3"/>
+  <path d="M466.474240,142.364160 L576.000000,488.135680" fill="none" stroke="#c43c24" id="1-3"/>
   <path d="M466.474240,142.364160 L455.000960,576.000000" fill="none" stroke="#c43c24" id="1-8"/>
   <path d="M466.474240,142.364160 L297.738240,149.038080" fill="none" stroke="black" id="1-10"/>
   <path d="M100.739840,217.050880 L276.897920,372.724480" fill="none" stroke="#c43c24" id="2-7"/>
@@ -15,9 +15,9 @@
   <path d="M412.458240,526.431360 L276.897920,372.724480" fill="none" stroke="black" id="6-7"/>
   <path d="M412.458240,526.431360 L455.000960,576.000000" fill="none" stroke="black" id="6-8"/>
   <ellipse cx="576.0000000000001" cy="64.66296913774659" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="0"/>
-  <ellipse cx="466.4741309048175" cy="142.36398191310627" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="1"/>
+  <ellipse cx="466.4741309048175" cy="142.36398191310627" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="1"/>
   <ellipse cx="100.73992742627635" cy="217.05094308844366" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="2"/>
-  <ellipse cx="576.0000000000001" cy="488.1359606872512" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="3"/>
+  <ellipse cx="576.0000000000001" cy="488.1359606872512" rx="8.0" ry="8.0" fill="#d62728" stroke="black" id="3"/>
   <ellipse cx="0.0" cy="194.2690327312006" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="4"/>
   <ellipse cx="0.0" cy="510.6285154215569" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="5"/>
   <ellipse cx="412.45806977269365" cy="526.431072695565" rx="8.0" ry="8.0" fill="#FFFFFF" stroke="black" id="6"/>
