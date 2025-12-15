@@ -4067,7 +4067,7 @@
                 },
                 {
                     "id": "uniqueNetworks",
-                    "prompt": "At the start of the study it was explained that one network can have many different drawings. You have seen 49 different drawings, how many unique network structures do you think you saw?",
+                    "prompt": "At the start of the study it was explained that one network can have many different drawings. You have seen 56 different drawings, how many unique network structures do you think you saw?",
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "numerical",
