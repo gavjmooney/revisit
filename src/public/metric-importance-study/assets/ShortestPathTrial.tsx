@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import {
-  Radio, Stack, Text, Box,
+  Radio, Stack, Text, Box, Group,
 } from '@mantine/core';
 import { StimulusParams } from '../../../store/types';
 import { useNextStep } from '../../../store/hooks/useNextStep';
@@ -55,25 +55,27 @@ export default function ShortestPathTrial({
         Accuracy is important, but please do not spend too long on each question.
       </Text>
 
-      <Box style={{ width: '33%' }}>
-        <img
-          src={imageUrl}
-          alt="Graph visualization"
-          style={{ width: '60%', height: 'auto' }}
-        />
-      </Box>
+      <Group align="center" gap="xl" wrap="nowrap">
+        <Box style={{ flexShrink: 0, width: '65%' }}>
+          <img
+            src={imageUrl}
+            alt="Graph visualization"
+            style={{ width: '100%', height: 'auto' }}
+          />
+        </Box>
 
-      <Stack align="flex-start" gap="xs">
-        <Text fw={500}>Shortest path length:</Text>
+        <Stack align="flex-start" gap="xs">
+          <Text fw={500}>Shortest path length:</Text>
 
-        <Radio.Group value={selected} onChange={handleSelection}>
-          <Stack gap="xs">
-            {parameters.options.map((option) => (
-              <Radio key={option} value={option} label={option} />
-            ))}
-          </Stack>
-        </Radio.Group>
-      </Stack>
+          <Radio.Group value={selected} onChange={handleSelection}>
+            <Stack gap="xs">
+              {parameters.options.map((option) => (
+                <Radio key={option} value={option} label={option} />
+              ))}
+            </Stack>
+          </Radio.Group>
+        </Stack>
+      </Group>
     </Stack>
   );
 }

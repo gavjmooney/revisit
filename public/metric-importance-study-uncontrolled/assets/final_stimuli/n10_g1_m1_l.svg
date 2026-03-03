@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600.0000000000001" height="600.0" viewBox="-7.5 -7.5 600.0000000000001 600.0">
+  <path d="M580.224396,0.000000 L283.507444,134.990222" fill="none" stroke="black" id="0-2" />
+  <path d="M580.224396,0.000000 L146.745320,134.773665" fill="none" stroke="black" id="0-5" />
+  <path d="M580.224396,0.000000 L520.895724,310.576675" fill="none" stroke="black" id="0-6" />
+  <path d="M227.274135,269.953908 L146.745320,134.773665" fill="none" stroke="black" id="1-5" />
+  <path d="M227.274135,269.953908 L520.895724,310.576675" fill="none" stroke="black" id="1-6" />
+  <path d="M227.274135,269.953908 L532.603016,585.000000" fill="none" stroke="black" id="1-8" />
+  <path d="M283.507444,134.990222 L553.721167,402.072135" fill="none" stroke="black" id="2-7" />
+  <path d="M585.000000,556.124021 L532.603016,585.000000" fill="none" stroke="black" id="3-8" />
+  <path d="M585.000000,556.124021 L0.000000,150.275498" fill="none" stroke="black" id="3-9" />
+  <path d="M342.693920,339.401701 L553.721167,402.072135" fill="none" stroke="black" id="4-7" />
+  <path d="M146.745320,134.773665 L520.895724,310.576675" fill="none" stroke="black" id="5-6" />
+  <path d="M146.745320,134.773665 L0.000000,150.275498" fill="none" stroke="black" id="5-9" />
+  <path d="M520.895724,310.576675 L553.721167,402.072135" fill="none" stroke="black" id="6-7" />
+  <ellipse cx="580.2243955434336" cy="0.0" rx="6" ry="6" fill="black" stroke="black" id="0" />
+  <ellipse cx="227.2741347133823" cy="269.953908227356" rx="6" ry="6" fill="black" stroke="black" id="1" />
+  <ellipse cx="283.5074441813381" cy="134.99022214456602" rx="6" ry="6" fill="black" stroke="black" id="2" />
+  <ellipse cx="585.0000000000001" cy="556.1240206422024" rx="6" ry="6" fill="#d62728" stroke="black" id="3" />
+  <ellipse cx="342.6939195577629" cy="339.401701477187" rx="6" ry="6" fill="#d62728" stroke="black" id="4" />
+  <ellipse cx="146.7453204096438" cy="134.77366464879987" rx="6" ry="6" fill="black" stroke="black" id="5" />
+  <ellipse cx="520.8957236801508" cy="310.57667513091064" rx="6" ry="6" fill="black" stroke="black" id="6" />
+  <ellipse cx="553.721166729127" cy="402.07213505967025" rx="6" ry="6" fill="black" stroke="black" id="7" />
+  <ellipse cx="532.6030164110335" cy="585.0" rx="6" ry="6" fill="black" stroke="black" id="8" />
+  <ellipse cx="0.0" cy="150.27549751607165" rx="6" ry="6" fill="black" stroke="black" id="9" />
+</svg>
