@@ -1,0 +1,2248 @@
+{
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
+    "studyMetadata": {
+        "title": "Network Visualisation Metrics Importance Study",
+        "version": "pilot",
+        "authors": [
+            "Gavin J. Mooney",
+            "Helen C. Purchase",
+            "Michael Wybrow"
+        ],
+        "date": "2024-03-19",
+        "description": "A study to investigate the importance of different metrics in network visualisations",
+        "organizations": [
+            "Monash University"
+        ]
+    },
+    "uiConfig": {
+        "contactEmail": "Gavin.Mooney@monash.edu",
+        "helpTextPath": "metric-importance-study-uncontrolled/assets/help.md",
+        "logoPath": "revisitAssets/revisitLogoSquare.svg",
+        "withProgressBar": true,
+        "autoDownloadStudy": false,
+        "withSidebar": false,
+        "studyEndMsg": "Thank you for completing the study! Please click [here](https://app.prolific.com/submissions/complete?cc=C4HYX7HY) to return to Prolific and confirm your submission."
+    },
+    "baseComponents": {
+        "trialBase": {
+            "type": "react-component",
+            "path": "metric-importance-study/assets/ShortestPathTrial.tsx",
+            "nextButtonLocation": "belowStimulus",
+            "response": [],
+            "stylesheetPath": "metric-importance-study-uncontrolled/assets/styles.css"
+        }
+    },
+    "components": {
+        "introduction": {
+            "type": "markdown",
+            "path": "metric-importance-study-uncontrolled/assets/Explanatory_Statement.md",
+            "response": []
+        },
+        "introduction2": {
+            "type": "markdown",
+            "path": "metric-importance-study-uncontrolled/assets/Explanatory_Statement2.md",
+            "response": []
+        },
+        "introduction3": {
+            "type": "markdown",
+            "path": "metric-importance-study-uncontrolled/assets/Explanatory_Statement3.md",
+            "response": []
+        },
+        "introduction4": {
+            "type": "markdown",
+            "path": "metric-importance-study-uncontrolled/assets/Definitions.md",
+            "response": []
+        },
+        "prolific_id": {
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "prolific_id",
+                    "prompt": "What is your proflic ID?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "longText",
+                    "placeholder": "Enter your Prolific ID"
+                }
+            ]
+        },
+        "introduction5": {
+            "type": "markdown",
+            "path": "metric-importance-study-uncontrolled/assets/Explanatory_Statement4.md",
+            "response": []
+        },
+        "example_n10_0": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n10_example_0.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "example_n10_1": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n10_example_1.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "example_n20_0": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n20_example_0.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "example_n20_1": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n20_example_1.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "example_n30_0": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n30_example_0.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "example_n30_1": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/example_trials/n30_example_1.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g0_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g0_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g1_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g1_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n10_g2_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n10_g2_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g0_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g0_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g1_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g1_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n20_g2_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n20_g2_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g0_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g0_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g1_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g1_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m0_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m0_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m0_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m0_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m0_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m0_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m1_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m1_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m1_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m1_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m1_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m1_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m2_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m2_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m2_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m2_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m2_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m2_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m3_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m3_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m3_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m3_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m3_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m3_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m4_h": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m4_h.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m4_m": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m4_m.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "n30_g2_m4_l": {
+            "baseComponent": "trialBase",
+            "parameters": {
+                "imagePath": "metric-importance-study-uncontrolled/assets/final_stimuli/n30_g2_m4_l.svg",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            }
+        },
+        "demographics": {
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "gender",
+                    "prompt": "Please indicate your gender",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Woman",
+                            "value": "woman"
+                        },
+                        {
+                            "label": "Man",
+                            "value": "man"
+                        },
+                        {
+                            "label": "Non-binary / gender diverse",
+                            "value": "non-binary"
+                        },
+                        {
+                            "label": "I prefer not to say",
+                            "value": "prefer-not-to-say"
+                        }
+                    ]
+                },
+                {
+                    "id": "age",
+                    "prompt": "Please indicate your age",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "18-25",
+                            "value": "18-25"
+                        },
+                        {
+                            "label": "26-35",
+                            "value": "26-35"
+                        },
+                        {
+                            "label": "36-45",
+                            "value": "36-45"
+                        },
+                        {
+                            "label": "46-55",
+                            "value": "46-55"
+                        },
+                        {
+                            "label": "56-65",
+                            "value": "56-65"
+                        },
+                        {
+                            "label": "66-75",
+                            "value": "66-75"
+                        },
+                        {
+                            "label": "76+",
+                            "value": "76+"
+                        }
+                    ]
+                },
+                {
+                    "id": "familiarity",
+                    "prompt": "How familiar are you with seeing diagrams like these?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Very familiar",
+                            "value": "very-familiar"
+                        },
+                        {
+                            "label": "Somewhat familiar",
+                            "value": "somewhat-familiar"
+                        },
+                        {
+                            "label": "Not very familiar",
+                            "value": "not-very-familiar"
+                        },
+                        {
+                            "label": "They are new to me",
+                            "value": "new-to-me"
+                        }
+                    ]
+                },
+                {
+                    "id": "difficulty",
+                    "prompt": "How difficult did you find the task overall?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Very difficult",
+                            "value": "very-difficult"
+                        },
+                        {
+                            "label": "Difficult",
+                            "value": "difficult"
+                        },
+                        {
+                            "label": "Easy",
+                            "value": "easy"
+                        },
+                        {
+                            "label": "Very easy",
+                            "value": "very-easy"
+                        }
+                    ]
+                },
+                {
+                    "id": "confidence",
+                    "prompt": "How confident are you in your answers?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Very confident",
+                            "value": "very-confident"
+                        },
+                        {
+                            "label": "Somewhat confident",
+                            "value": "somewhat-confident"
+                        },
+                        {
+                            "label": "Not very confident",
+                            "value": "not-very-confident"
+                        },
+                        {
+                            "label": "Not confident at all",
+                            "value": "not-confident-at-all"
+                        }
+                    ]
+                },
+                {
+                    "id": "strategy",
+                    "prompt": "Please describe any strategy you used to find the length of the shortest path",
+                    "required": false,
+                    "location": "aboveStimulus",
+                    "type": "longText",
+                    "placeholder": "Describe your strategy here (optional)"
+                },
+                {
+                    "id": "uniqueNetworks",
+                    "prompt": "At the start of the study it was explained that one network can have many different drawings. You have seen 45 different drawings, how many unique network structures do you think you saw?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "numerical",
+                    "placeholder": "Enter a number"
+                }
+            ]
+        }
+    },
+    "sequence": {
+        "order": "fixed",
+        "components": [
+            "introduction",
+            "introduction2",
+            "introduction3",
+            "introduction4",
+            "prolific_id",
+            "introduction5",
+            {
+                "order": "random",
+                "components": [
+                    "example_n10_0",
+                    "example_n10_1",
+                    "example_n20_0",
+                    "example_n20_1",
+                    "example_n30_0",
+                    "example_n30_1"
+                ]
+            },
+            {
+                "order": "latinSquare",
+                "numSamples": 1,
+                "components": [
+                    {
+                        "id": "group0",
+                        "order": "random",
+                        "components": [
+                            "n10_g0_m0_h",
+                            "n10_g0_m1_m",
+                            "n10_g0_m2_l",
+                            "n10_g0_m3_h",
+                            "n10_g0_m4_m",
+                            "n10_g1_m0_m",
+                            "n10_g1_m1_l",
+                            "n10_g1_m2_h",
+                            "n10_g1_m3_m",
+                            "n10_g1_m4_l",
+                            "n10_g2_m0_l",
+                            "n10_g2_m1_h",
+                            "n10_g2_m2_m",
+                            "n10_g2_m3_l",
+                            "n10_g2_m4_h",
+                            "n20_g0_m0_h",
+                            "n20_g0_m1_m",
+                            "n20_g0_m2_l",
+                            "n20_g0_m3_h",
+                            "n20_g0_m4_m",
+                            "n20_g1_m0_m",
+                            "n20_g1_m1_l",
+                            "n20_g1_m2_h",
+                            "n20_g1_m3_m",
+                            "n20_g1_m4_l",
+                            "n20_g2_m0_l",
+                            "n20_g2_m1_h",
+                            "n20_g2_m2_m",
+                            "n20_g2_m3_l",
+                            "n20_g2_m4_h",
+                            "n30_g0_m0_h",
+                            "n30_g0_m1_m",
+                            "n30_g0_m2_l",
+                            "n30_g0_m3_h",
+                            "n30_g0_m4_m",
+                            "n30_g1_m0_m",
+                            "n30_g1_m1_l",
+                            "n30_g1_m2_h",
+                            "n30_g1_m3_m",
+                            "n30_g1_m4_l",
+                            "n30_g2_m0_l",
+                            "n30_g2_m1_h",
+                            "n30_g2_m2_m",
+                            "n30_g2_m3_l",
+                            "n30_g2_m4_h"
+                        ]
+                    },
+                    {
+                        "id": "group1",
+                        "order": "random",
+                        "components": [
+                            "n10_g0_m0_m",
+                            "n10_g0_m1_l",
+                            "n10_g0_m2_h",
+                            "n10_g0_m3_m",
+                            "n10_g0_m4_l",
+                            "n10_g1_m0_l",
+                            "n10_g1_m1_h",
+                            "n10_g1_m2_m",
+                            "n10_g1_m3_l",
+                            "n10_g1_m4_h",
+                            "n10_g2_m0_h",
+                            "n10_g2_m1_m",
+                            "n10_g2_m2_l",
+                            "n10_g2_m3_h",
+                            "n10_g2_m4_m",
+                            "n20_g0_m0_m",
+                            "n20_g0_m1_l",
+                            "n20_g0_m2_h",
+                            "n20_g0_m3_m",
+                            "n20_g0_m4_l",
+                            "n20_g1_m0_l",
+                            "n20_g1_m1_h",
+                            "n20_g1_m2_m",
+                            "n20_g1_m3_l",
+                            "n20_g1_m4_h",
+                            "n20_g2_m0_h",
+                            "n20_g2_m1_m",
+                            "n20_g2_m2_l",
+                            "n20_g2_m3_h",
+                            "n20_g2_m4_m",
+                            "n30_g0_m0_m",
+                            "n30_g0_m1_l",
+                            "n30_g0_m2_h",
+                            "n30_g0_m3_m",
+                            "n30_g0_m4_l",
+                            "n30_g1_m0_l",
+                            "n30_g1_m1_h",
+                            "n30_g1_m2_m",
+                            "n30_g1_m3_l",
+                            "n30_g1_m4_h",
+                            "n30_g2_m0_h",
+                            "n30_g2_m1_m",
+                            "n30_g2_m2_l",
+                            "n30_g2_m3_h",
+                            "n30_g2_m4_m"
+                        ]
+                    },
+                    {
+                        "id": "group2",
+                        "order": "random",
+                        "components": [
+                            "n10_g0_m0_l",
+                            "n10_g0_m1_h",
+                            "n10_g0_m2_m",
+                            "n10_g0_m3_l",
+                            "n10_g0_m4_h",
+                            "n10_g1_m0_h",
+                            "n10_g1_m1_m",
+                            "n10_g1_m2_l",
+                            "n10_g1_m3_h",
+                            "n10_g1_m4_m",
+                            "n10_g2_m0_m",
+                            "n10_g2_m1_l",
+                            "n10_g2_m2_h",
+                            "n10_g2_m3_m",
+                            "n10_g2_m4_l",
+                            "n20_g0_m0_l",
+                            "n20_g0_m1_h",
+                            "n20_g0_m2_m",
+                            "n20_g0_m3_l",
+                            "n20_g0_m4_h",
+                            "n20_g1_m0_h",
+                            "n20_g1_m1_m",
+                            "n20_g1_m2_l",
+                            "n20_g1_m3_h",
+                            "n20_g1_m4_m",
+                            "n20_g2_m0_m",
+                            "n20_g2_m1_l",
+                            "n20_g2_m2_h",
+                            "n20_g2_m3_m",
+                            "n20_g2_m4_l",
+                            "n30_g0_m0_l",
+                            "n30_g0_m1_h",
+                            "n30_g0_m2_m",
+                            "n30_g0_m3_l",
+                            "n30_g0_m4_h",
+                            "n30_g1_m0_h",
+                            "n30_g1_m1_m",
+                            "n30_g1_m2_l",
+                            "n30_g1_m3_h",
+                            "n30_g1_m4_m",
+                            "n30_g2_m0_m",
+                            "n30_g2_m1_l",
+                            "n30_g2_m2_h",
+                            "n30_g2_m3_m",
+                            "n30_g2_m4_l"
+                        ]
+                    }
+                ]
+            },
+            "demographics"
+        ]
+    }
+}

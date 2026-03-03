@@ -1,0 +1,117 @@
+[
+  {
+    "num_nodes": 10,
+    "graph_index": 0,
+    "timestamp": "2026-02-25T05:26:54.218158+00:00",
+    "num_edges": 16,
+    "node_a": 4,
+    "node_b": 9,
+    "distance": 4,
+    "path_nodes": [
+      4,
+      0,
+      6,
+      2,
+      9
+    ],
+    "geg_file": "n10_example_0.geg",
+    "svg_file": "n10_example_0.svg",
+    "solution_svg_file": "n10_example_0_solution.svg"
+  },
+  {
+    "num_nodes": 10,
+    "graph_index": 1,
+    "timestamp": "2026-02-25T05:26:54.317171+00:00",
+    "num_edges": 11,
+    "node_a": 5,
+    "node_b": 9,
+    "distance": 4,
+    "path_nodes": [
+      5,
+      4,
+      1,
+      8,
+      9
+    ],
+    "geg_file": "n10_example_1.geg",
+    "svg_file": "n10_example_1.svg",
+    "solution_svg_file": "n10_example_1_solution.svg"
+  },
+  {
+    "num_nodes": 20,
+    "graph_index": 0,
+    "timestamp": "2026-02-25T05:26:54.721165+00:00",
+    "num_edges": 34,
+    "node_a": 3,
+    "node_b": 4,
+    "distance": 5,
+    "path_nodes": [
+      3,
+      13,
+      8,
+      2,
+      17,
+      4
+    ],
+    "geg_file": "n20_example_0.geg",
+    "svg_file": "n20_example_0.svg",
+    "solution_svg_file": "n20_example_0_solution.svg"
+  },
+  {
+    "num_nodes": 20,
+    "graph_index": 1,
+    "timestamp": "2026-02-25T05:26:54.892159+00:00",
+    "num_edges": 39,
+    "node_a": 4,
+    "node_b": 7,
+    "distance": 4,
+    "path_nodes": [
+      4,
+      1,
+      10,
+      2,
+      7
+    ],
+    "geg_file": "n20_example_1.geg",
+    "svg_file": "n20_example_1.svg",
+    "solution_svg_file": "n20_example_1_solution.svg"
+  },
+  {
+    "num_nodes": 30,
+    "graph_index": 0,
+    "timestamp": "2026-02-25T05:26:55.437162+00:00",
+    "num_edges": 89,
+    "node_a": 10,
+    "node_b": 23,
+    "distance": 4,
+    "path_nodes": [
+      10,
+      15,
+      1,
+      2,
+      23
+    ],
+    "geg_file": "n30_example_0.geg",
+    "svg_file": "n30_example_0.svg",
+    "solution_svg_file": "n30_example_0_solution.svg"
+  },
+  {
+    "num_nodes": 30,
+    "graph_index": 1,
+    "timestamp": "2026-02-25T05:26:55.806157+00:00",
+    "num_edges": 58,
+    "node_a": 20,
+    "node_b": 24,
+    "distance": 4,
+    "path_nodes": [
+      20,
+      2,
+      5,
+      15,
+      24
+    ],
+    "geg_file": "n30_example_1.geg",
+    "svg_file": "n30_example_1.svg",
+    "solution_svg_file": "n30_example_1_solution.svg"
+  }
+]

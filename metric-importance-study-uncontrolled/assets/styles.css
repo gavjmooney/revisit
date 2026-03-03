@@ -1,0 +1,4 @@
+/* Hide the Next button for trial components */
+button[type="submit"] {
+    display: none !important;
+}

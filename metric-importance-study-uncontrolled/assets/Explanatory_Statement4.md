@@ -1,0 +1,1 @@
+The study will now begin. You will be shown an image of network and asked to choose the length of the shortest path between the two highlighted nodes in red. Making a selection will progress the study - you cannot change your answer. Accuracy is important, but please do not spend too long on each question.
